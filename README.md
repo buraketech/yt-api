@@ -7,7 +7,7 @@
 
 ## 🇹🇷 Türkçe
 
-YouTube URL'lerini doğrudan ses stream URL'sine çözümleyen hafif bir REST API servisi. `srp_interior` gibi uygulamalarda YouTube sesini doğrudan oynatmak için tasarlanmıştır.
+YouTube URL'lerini doğrudan ses stream URL'sine çözümleyen hafif bir REST API servisi. YouTube sesini doğrudan oynatmak için tasarlanmıştır.
 
 ### Özellikler
 
